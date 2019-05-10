@@ -8,6 +8,3 @@
 1. pytorch==0.4.1
 2. Numpy 
 3. Matplotlib
-
-
-
